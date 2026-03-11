@@ -1,3 +1,4 @@
 La première ligne MODIFIÉE PAR A
+La première ligne MODIFIÉE PAR B
 La deuxième ligne
 La troisième ligne
